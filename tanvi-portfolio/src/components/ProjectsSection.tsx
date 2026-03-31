@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { FiExternalLink, FiGithub } from 'react-icons/fi';
 
-import imgResqnet from '@/assets/project-resqnet.png';
+import imgResqnet from '@/assets/project-ResQnet.png';
 import imgUnimart from '../assets/Unimart.png';
 import imgTrackwise from '../assets/trackwise.png';
 import imgTastyFood from '../assets/tastyfood.png';
