@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import me from '../assets/MyPhoto.png';
-import Resume from '../assets/Final Resume.pdf';
+import Resume from '../assets/General CV.pdf';
 
 const letterVariants = {
   hidden: { opacity: 0, y: 30 },
